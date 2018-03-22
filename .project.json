@@ -1,0 +1,18 @@
+{
+  "hcpdeploy": {
+    "account": "p925758trial",
+    "name": "debugging",
+    "lastVersionWeTriedToDeploy": "1.0.0"
+  },
+  "projectType": [
+    "sap.watt.uitools.ide.web",
+    "com.watt.common.builder.sapui5clientbuild"
+  ],
+  "build": {
+    "buildRequired": true,
+    "sourceFolder": "webapp",
+    "targetFolder": "dist",
+    "excludedFolders": [],
+    "excludedFiles": []
+  }
+}

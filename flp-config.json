@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "spde.spde1",
+        "description": "debugging app",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/webapp",
+        "appUrl": "#spde1-Display",
+        "navigationComponentName": "spde",
+        "intentSemanticObject": "spde1",
+        "intentAction": "Display",
+        "html5ApplicationName": "debugging",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "f8476391-ced3-40cc-b1c3-3ab80c03157f"
+        ],
+        "contentPackages": [
+            "b61c4f14-c128-48fa-89f2-d71ea6f5bc20"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Debugging ",
+        "subtitle": "Testing",
+        "searchKeywords": "Debugging ,Testing",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
